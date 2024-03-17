@@ -1,7 +1,5 @@
 # Coffee Website
 
-![Coffee Website Screenshot](./src/assets/images/screenshot.png)
-
 ## Live Demo
 You can access the live demo of the Coffee Website [here](https://coffee-yossef.vercel.app).
 
@@ -29,24 +27,6 @@ This is a Coffee Website built using React, React Router DOM, Bootstrap, Tailwin
 - **React Redux**: React Redux is used for state management, making it easier to manage the cart and product data.
 
 - **Redux Toolkit**: Redux Toolkit simplifies Redux configuration, making it more efficient and developer-friendly.
-
-## Getting Started
-1. Clone this repository:
-   ```
-   git clone https://github.com/yossefelnajjar/coffee-website.git
-   ```
-
-2. Install dependencies:
-   ```
-   npm install
-   ```
-
-3. Start the development server:
-   ```
-   npm run dev
-   ```
-
-4. Open your browser and navigate to `http://localhost:5173` to view the website.
 
 ## Usage
 - Browse the coffee products and select the ones you like.
